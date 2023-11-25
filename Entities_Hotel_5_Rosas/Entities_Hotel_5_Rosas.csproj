@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0F30405D-E0CC-44DA-813B-319F96B286FA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entities_Hotel_5_Rosas</RootNamespace>
+    <AssemblyName>Entities_Hotel_5_Rosas</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\Hotel_5_Rosas_Proyect\packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="MailKit, Version=3.1.0.0, Culture=neutral, PublicKeyToken=4e064fe7c44a8f1b, processorArchitecture=MSIL">
+      <HintPath>..\Hotel_5_Rosas_Proyect\packages\MailKit.3.1.0\lib\net48\MailKit.dll</HintPath>
+    </Reference>
+    <Reference Include="MimeKit, Version=3.1.0.0, Culture=neutral, PublicKeyToken=bede1c8a46c66814, processorArchitecture=MSIL">
+      <HintPath>..\Hotel_5_Rosas_Proyect\packages\MimeKit.3.1.0\lib\net48\MimeKit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\Hotel_5_Rosas_Proyect\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\Hotel_5_Rosas_Proyect\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity_Administrador.cs" />
+    <Compile Include="Entity_Caracteristicas.cs" />
+    <Compile Include="Entity_Cliente.cs" />
+    <Compile Include="Entity_Correo.cs" />
+    <Compile Include="Entity_Facilidad.cs" />
+    <Compile Include="Entity_Galeria.cs" />
+    <Compile Include="Entity_Habitacion.cs" />
+    <Compile Include="Entity_Hotel.cs" />
+    <Compile Include="Entity_Imagen.cs" />
+    <Compile Include="Modelos\Correo.cs" />
+    <Compile Include="Modelos\Entity_Estado_Habitacion.cs" />
+    <Compile Include="Modelos\Entity_HabitacionReserva.cs" />
+    <Compile Include="Modelos\Entity_Obtener_Facilidades.cs" />
+    <Compile Include="Entity_OfertaTemporada.cs" />
+    <Compile Include="Entity_Pagina.cs" />
+    <Compile Include="Modelos\Entity_PaginaComoLLegar.cs" />
+    <Compile Include="Modelos\Entity_PaginaHome.cs" />
+    <Compile Include="Modelos\Entity_PaginaSobreNosotros.cs" />
+    <Compile Include="Entity_Publicidad.cs" />
+    <Compile Include="Entity_Reserva.cs" />
+    <Compile Include="Entity_Telefono.cs" />
+    <Compile Include="Entity_Temporada.cs" />
+    <Compile Include="Entity_TipoHabitacion.cs" />
+    <Compile Include="Modelos\Entity_Tarifas.cs" />
+    <Compile Include="Modelos\Facility.cs" />
+    <Compile Include="Modelos\OfertaTemporada.cs" />
+    <Compile Include="Modelos\Reservacion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entity_Usuario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,96 @@
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Downloads\Proyecto\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\juanp\OneDrive\Escritorio\API Angular\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\pisab\Desktop\Universidad\Cursos\Ingeniería de software\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.dll
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.pdb
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.xml
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.pdb
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.xml
+C:\Users\josep\Desktop\Universidad\Ingenieria de software\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.xml
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.dll
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.pdb
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.xml
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.pdb
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.xml
+C:\Users\mario\OneDrive\Escritorio\Proyecto5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.xml
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.pdb
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.xml
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.pdb
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.xml
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.xml
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\pisab\Desktop\Hotel5Rosas\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\Entities_Hotel_5_Rosas.pdb
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.pdb
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MailKit.xml
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.pdb
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\MimeKit.xml
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\bin\Debug\System.Buffers.xml
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.AssemblyReference.cache
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.csproj.CopyComplete
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.dll
+C:\Users\josep\Desktop\Universidad\Hotel_5_Rosas\Proyecto\Hotel5Rosas-Net\Entities_Hotel_5_Rosas\obj\Debug\Entities_Hotel_5_Rosas.pdb
